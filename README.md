@@ -1,2 +1,2 @@
 # Mechatronics
-This repository includes mobile robot projects with special requirements.
+This repository includes mechatronics projects.
